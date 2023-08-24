@@ -6,10 +6,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
     'dsn'	=> '',
-    'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => 'root',
-    'database' => 'elearning',
+    'hostname' => 'db4free.net',
+    'username' => 'garudacbt_plus',
+    'password' => 'creatorb14',
+    'database' => 'garudacbt_plus',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
